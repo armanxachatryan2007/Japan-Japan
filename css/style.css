@@ -1,0 +1,53 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Raleway', sans-serif;
+
+    font-size: 20px;
+    margin-top: 25px;
+}
+
+.header ul {
+    margin-left: 25px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.header__logo {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.logo {
+    margin-bottom: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.flag {
+    width: 350px;
+    border: 1px solid black;
+}
+
+.gerb {
+    width: 210px;
+    padding: 17.5px;
+    border: 1px solid black;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+
+.intro__one {
+    text-align: center;
+}
+
+.intro__one h2 {
+    margin-left: 25px;
+}
+
+.intro__one p {
+    font-size: 19px;
+    border: 1px solid black;
+    padding: 25px;
+    align-items: center;
+    border-radius: 15px;
+}
